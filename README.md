@@ -1,5 +1,5 @@
 ## 👨‍💻 About me
-I am 17 years old and currently building my path in the field of technology, with a strong interest in programming and software development. I have knowledge and practical experience in Python and MySQL, focusing on writing clean, efficient code and developing structured database solutions.
+I am 17 years old and currently building my path in the field of technology, with a strong interest in programming and software development. I have knowledge and practical experience in Python, Lua, HTML5, CSS3, JavaScript, MySQL, and MongoDB, focusing on writing clean, efficient code and developing structured solutions for both software and databases.
 
 I am passionate about learning new technologies, improving my logical thinking, and continuously evolving as a developer. My goal is to create reliable and scalable solutions while strengthening my skills through real-world projects and consistent practice.
 
